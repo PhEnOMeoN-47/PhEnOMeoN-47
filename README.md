@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, I'm Anshul</h1>
 <h3 align="center">Just tryin' to fit it</h3>
 <img align="right" alt="goku" width="400" src="https://imgs.search.brave.com/FR-8brswwhDauji4Xt7NB1ffcg3o7RHx3uvlnDmkqVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZMlF3TmpGcGRH/RXlaV0l3Ym1wMFky/RnVaamhqY0RFNWEz/a3pNMkppYUhacWJU/YzViV2hyYlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vWGxNN0oxZ2JX/dmpvcy8yMDAuZ2lm.gif">
+<img align="left" alt="cell" width="400" src="https://imgs.search.brave.com/ZQGATgNPv2NGm3STKuVKXLV18wZMPfVlDjYcKCe5JD4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQzLzM3/L2EyLzQzMzdhMjk2/YmU3M2QwYTFhZmU5/YjA4MzBjY2I4ZDU4/LmdpZg.gif">
+<img align="center" alt="fight" width="212" src="https://imgs.search.brave.com/3mWnL2lVKo91zVFQsihBGhKEvB2M4h-q94e3aOM-WAU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9maWdodC8y/ODYwOC02LWZpZ2h0/LXRodW1iLnBuZw">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phenomeon-47&label=Profile%20views&color=0e75b6&style=flat" alt="phenomeon-47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phenomeon-47" alt="phenomeon-47" /></a> </p>
 
