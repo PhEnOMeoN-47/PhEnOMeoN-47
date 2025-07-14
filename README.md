@@ -2,7 +2,7 @@
 <h3 align="center">Just tryin' to fit it</h3>
 <img align="right" alt="goku" width="300" src="https://imgs.search.brave.com/FR-8brswwhDauji4Xt7NB1ffcg3o7RHx3uvlnDmkqVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZMlF3TmpGcGRH/RXlaV0l3Ym1wMFky/RnVaamhqY0RFNWEz/a3pNMkppYUhacWJU/YzViV2hyYlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vWGxNN0oxZ2JX/dmpvcy8yMDAuZ2lm.gif">
 <img align="left" alt="cell" width="300" src="https://imgs.search.brave.com/ZQGATgNPv2NGm3STKuVKXLV18wZMPfVlDjYcKCe5JD4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQzLzM3/L2EyLzQzMzdhMjk2/YmU3M2QwYTFhZmU5/YjA4MzBjY2I4ZDU4/LmdpZg.gif">
-<img align="center" alt="fight" width="200" src="https://imgs.search.brave.com/3mWnL2lVKo91zVFQsihBGhKEvB2M4h-q94e3aOM-WAU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9maWdodC8y/ODYwOC02LWZpZ2h0/LXRodW1iLnBuZw">
+<img align="center" alt="fight" width="220" src="https://imgs.search.brave.com/3mWnL2lVKo91zVFQsihBGhKEvB2M4h-q94e3aOM-WAU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9maWdodC8y/ODYwOC02LWZpZ2h0/LXRodW1iLnBuZw">
 
 
 <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
