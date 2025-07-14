@@ -5,7 +5,15 @@
 <img align="center" alt="fight" width="212" src="https://imgs.search.brave.com/3mWnL2lVKo91zVFQsihBGhKEvB2M4h-q94e3aOM-WAU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9maWdodC8y/ODYwOC02LWZpZ2h0/LXRodW1iLnBuZw">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phenomeon-47" alt="phenomeon-47" /></a> </p>
+<div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=phenomeon-47&title=Experience,Commits,Followers,Repositories&theme=darkhub&margin-w=15&margin-h=15" />
+</div>
+
+
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/naruto_ak_" target="blank"><img src="https://img.shields.io/twitter/follow/naruto_ak_?logo=twitter&style=for-the-badge" alt="naruto_ak_" /></a> </p>
 
