@@ -27,7 +27,6 @@ jobs:
             dist/snake.gif
             dist/snake.png
 
-      # NEW SYSTEM (2025): upload pages artifact v2
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
@@ -36,12 +35,11 @@ jobs:
   deploy:
     needs: generate
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     permissions:
       pages: write
       id-token: write
-    environment:
-      name: github-pages
-
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
